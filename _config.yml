@@ -14,7 +14,7 @@ description: >-
   unified, high-performance systems.
 
 url: "https://arbitdesigns.github.io"
-baseurl: "/blog"
+baseurl: "/"
 
 github:
   username: arbitdesigns
